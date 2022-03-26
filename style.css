@@ -1,0 +1,40 @@
+body {
+    background-color: lavender;
+}
+h1{
+    width: 100%;
+    margin-top: 0px;
+    background-color: black;
+    color: lightskyblue;
+
+}
+button{
+    color: black !important;
+    font-weight: 600 !important;
+    font-size: 16px !important;
+    float: right;
+}
+p{
+    font-size: 22px;
+    color: black;
+    font-weight: 600 !important;
+}
+#score, #timer{
+    font-size: 22px;
+    color: black;
+    font-weight: 600 !important;
+}
+canvas{
+    background-color: aliceblue;
+    border: solid 3px lightskyblue;
+    border-radius: 30px;
+    margin-top: 100px;
+}
+#score {
+    float: left;
+}
+#timer{
+    float: right;
+}
+
+
